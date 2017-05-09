@@ -1,6 +1,6 @@
 
+#Try : http://www.codeskulptor.org/#user43_DKCEwE4lo5S4gWE.py
 
-#from coursera:interactive programming in python ; Rice University
 # template for "Stopwatch: The Game"
 import simplegui
 
